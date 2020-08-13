@@ -8,6 +8,4 @@ In this repository you will find:
 • The Schematics in Diptrace format.
 • The front panel as PCB in Diptrace format.
 
-The firmware used for Grilles were the original files published by Mutable Instruments. Some components were changed directly on the circuit board itself.
-
 ![Grilles-v2 0-768x1152](https://user-images.githubusercontent.com/39232489/90115733-c62c3a00-dd54-11ea-8b27-cf4a8caaf2df.jpg)
