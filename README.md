@@ -8,4 +8,6 @@ In this repository you will find:
 • The Schematics in Diptrace format.
 • The front panel as PCB in Diptrace format.
 
+The schematics in this version include the part of the circuit needed for MIDI clock input added to the front panel.
+
 ![Grilles-v2 0-768x1152](https://user-images.githubusercontent.com/39232489/90115733-c62c3a00-dd54-11ea-8b27-cf4a8caaf2df.jpg)
