@@ -7,6 +7,9 @@ In this repository you will find:
 • The PCB file in Diptrace format.
 • The Schematics in Diptrace format.
 • The front panel as PCB in Diptrace format.
+• All GERBER files
+• BOM with all references
+• Pick'n'place file: it is primordial that you first ask permission to Emilie Gillet / Mutable Instruments before you go to manufacturing PCBs!!!
 
 The schematics in this version include the part of the circuit needed for MIDI clock input added to the front panel.
 
